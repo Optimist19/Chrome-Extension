@@ -1,0 +1,40 @@
+
+/* *{
+	margin: 0;
+	padding: 0;
+} */
+
+#input{
+	margin-bottom: 2vh;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 2vh 1vw;
+	/* margin: 0 1vw; */
+}
+
+/* #button{
+	background-color: green;
+	color: white;
+	padding: 1vh 2vw; 
+} */
+
+#input-btn{
+	background-color: green;
+	color: white;
+	padding: 1vh 2vw;
+	cursor: pointer;
+}
+
+#delete{
+	color: green;
+	background-color: white;
+	padding: 1vh 2vw;
+	cursor: pointer;
+}
+
+#tab-btn{
+	background-color: green;
+	color: white;
+	padding: 1vh 2vw;
+	cursor: pointer;
+}
